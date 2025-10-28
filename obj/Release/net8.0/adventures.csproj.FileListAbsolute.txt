@@ -1,0 +1,15 @@
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\bin\Release\net8.0\adventures.exe
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\bin\Release\net8.0\adventures.deps.json
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\bin\Release\net8.0\adventures.runtimeconfig.json
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\bin\Release\net8.0\adventures.dll
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\bin\Release\net8.0\adventures.pdb
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\obj\Release\net8.0\adventures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\obj\Release\net8.0\adventures.AssemblyInfoInputs.cache
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\obj\Release\net8.0\adventures.AssemblyInfo.cs
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\obj\Release\net8.0\adventures.csproj.CoreCompileInputs.cache
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\obj\Release\net8.0\adventures.sourcelink.json
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\obj\Release\net8.0\adventures.dll
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\obj\Release\net8.0\refint\adventures.dll
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\obj\Release\net8.0\adventures.pdb
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\obj\Release\net8.0\adventures.genruntimeconfig.cache
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\obj\Release\net8.0\ref\adventures.dll

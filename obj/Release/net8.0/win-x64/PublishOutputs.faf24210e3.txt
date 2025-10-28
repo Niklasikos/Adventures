@@ -1,0 +1,2 @@
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\bin\Release\net8.0\win-x64\publish\adventures.exe
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\bin\Release\net8.0\win-x64\publish\adventures.pdb

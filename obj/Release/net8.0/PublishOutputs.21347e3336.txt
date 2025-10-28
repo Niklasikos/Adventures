@@ -1,0 +1,5 @@
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\bin\Release\net8.0\publish\adventures.exe
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\bin\Release\net8.0\publish\adventures.dll
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\bin\Release\net8.0\publish\adventures.deps.json
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\bin\Release\net8.0\publish\adventures.runtimeconfig.json
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\adventures\bin\Release\net8.0\publish\adventures.pdb

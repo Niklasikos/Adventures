@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikla\\OneDrive\\Desktop\\School Werk\\M1\\C-terminal-game\\test.csproj",
-      "projectName": "test",
-      "projectPath": "C:\\Users\\Nikla\\OneDrive\\Desktop\\School Werk\\M1\\C-terminal-game\\test.csproj",
+      "projectUniqueName": "C:\\Users\\Nikla\\OneDrive\\Desktop\\School Werk\\M1\\adventures\\adventures.csproj",
+      "projectName": "adventures",
+      "projectPath": "C:\\Users\\Nikla\\OneDrive\\Desktop\\School Werk\\M1\\adventures\\adventures.csproj",
       "packagesPath": "C:\\Users\\Nikla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikla\\OneDrive\\Desktop\\School Werk\\M1\\C-terminal-game\\obj\\",
+      "outputPath": "C:\\Users\\Nikla\\OneDrive\\Desktop\\School Werk\\M1\\adventures\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikla\\AppData\\Roaming\\NuGet\\NuGet.Config"

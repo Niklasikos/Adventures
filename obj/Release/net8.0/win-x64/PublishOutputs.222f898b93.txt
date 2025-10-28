@@ -1,0 +1,2 @@
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\C-terminal-game\bin\Release\net8.0\win-x64\publish\test.exe
+C:\Users\Nikla\OneDrive\Desktop\School Werk\M1\C-terminal-game\bin\Release\net8.0\win-x64\publish\test.pdb
